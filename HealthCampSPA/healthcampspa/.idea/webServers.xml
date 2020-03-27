@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f447f2a7-876e-43f3-ab71-4416124e8eca" name="leoDO" url="http://tamedogisnotdog.com/">
+        <fileTransfer host="107.170.211.59" port="22" rootFolder="/var/www/html/hvFrontEnd" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
