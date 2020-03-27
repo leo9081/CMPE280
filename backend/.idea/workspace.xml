@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8535cfbc-ad57-4666-9594-8b91bf42a27d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZeUVXvNKtVTpMjxFJ4iW4Rg1gX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8535cfbc-ad57-4666-9594-8b91bf42a27d" name="Default Changelist" comment="" />
+      <created>1585199077156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585199077156</updated>
+      <workItem from="1585199079139" duration="2427000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="265" key="#Deployment" timestamp="1585199328866">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="560" y="265" key="#Deployment/0.0.1920.1200@0.0.1920.1200" timestamp="1585199328866" />
+    <state width="1899" height="325" key="GridCell.Tab.0.bottom" timestamp="1585258472439">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1585258472439" />
+    <state width="1899" height="325" key="GridCell.Tab.0.center" timestamp="1585258472436">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1585258472436" />
+    <state width="1899" height="325" key="GridCell.Tab.0.left" timestamp="1585258472429">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1585258472429" />
+    <state width="1899" height="325" key="GridCell.Tab.0.right" timestamp="1585258472438">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1585258472438" />
+    <state x="867" y="257" width="433" height="685" key="ftp.server.browser" timestamp="1585199317860">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="867" y="257" width="433" height="685" key="ftp.server.browser/0.0.1920.1200@0.0.1920.1200" timestamp="1585199317860" />
+  </component>
+</project>
